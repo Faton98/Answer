@@ -82,9 +82,4 @@ So the conclusion is that each framework has its own advantages, grape is more s
 because grape has features that make it easy for us to create REST API based applications.
 because routing for REST API applications requires more attention.  
 
-### References
-- [Grape versioning](https://github.com/ruby-grape/grape#versioning) - Grape API versioning
-- [Grape on Rails](https://github.com/ruby-grape/grape-on-rails) - Example grape rails project
-- [Agiratech](https://www.agiratech.com/build-rails-api-with-grape/) - Build rails api with grape.
-- [grape?](https://dev.to/torianne02/what-is-grape-19l) - What is grape
-- [why did we choose](http://zonov.me/ruby-on-grapes-why-did-we-choose-grape-and-why-would-i-choose-it-again/) - why did we choose grape and why would i choose again.
+
